@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Volcanes</title>
+    <link href="https://volcanes-ar.github.io/feed.xml" rel="self" />
+    <link href="https://volcanes-ar.github.io" />
+    <updated>2021-10-29T18:30:25-03:00</updated>
+    <author>
+        <name>volcanes</name>
+    </author>
+    <id>https://volcanes-ar.github.io</id>
+
+    <entry>
+        <title>Volcanes.com.ar</title>
+        <author>
+            <name>volcanes</name>
+        </author>
+        <link href="https://volcanes-ar.github.io/volcanescomar.html"/>
+        <id>https://volcanes-ar.github.io/volcanescomar.html</id>
+
+        <updated>2021-10-29T18:30:25-03:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

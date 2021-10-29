@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://volcanes-ar.github.io/sitemap.xml

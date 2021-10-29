@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Volcanes",
+    "description": "",
+    "home_page_url": "https://volcanes-ar.github.io",
+    "feed_url": "https://volcanes-ar.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "volcanes"
+    },
+    "items": [
+        {
+            "id": "https://volcanes-ar.github.io/volcanescomar.html",
+            "url": "https://volcanes-ar.github.io/volcanescomar.html",
+            "title": "Volcanes.com.ar",
+            "summary": " ",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "volcanes"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-29T18:30:25-03:00",
+            "date_modified": "2021-10-29T18:30:25-03:00"
+        }
+    ]
+}
